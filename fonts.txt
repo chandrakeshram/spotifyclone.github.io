@@ -1,0 +1,16 @@
+
+
+font-family: 'Lora', serif;
+font-family: 'Merriweather', serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Roboto Slab', serif;
+
+font-family: 'Lora', serif;
+font-family: 'Merriweather', serif;
+font-family: 'Playfair Display', serif;
+Despacito
+Qaafirana
+Humnava Mere
+Faded
+Magenta Riddim
+Kolaveri Di
